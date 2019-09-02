@@ -1,0 +1,2 @@
+# collision
+Hash collision detector
